@@ -1,0 +1,3 @@
+curl -Ol ***(URL)
+tar XZVF resources.tar.gz(kaitou)
+patch -o b z sw.diff
